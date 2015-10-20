@@ -3,7 +3,7 @@ Rewrite Dhawaldawar's TextFieldValidator library to Swift language
 
 > A lightweight, customizable subclass of UITextField that supports multiple regex validations and provides a simple UI to provide validation feedback.
 
-Dhawaldawar has written a greate libray, which is named `TextFieldValidator` at https://github.com/dhawaldawar/TextFieldValidator
+Dhawaldawar has written a great libray, which is named `TextFieldValidator` at https://github.com/dhawaldawar/TextFieldValidator
 
 He doesn't seem to update his repository from a year ago. So this library is still a `objective-C` library. We can also use this by using `bridged-header` file, but it's more better if we use this library in Swift language.
 
@@ -19,7 +19,7 @@ How to use (basic):
 - Add regex to validate
 - Call `validate` method when you need to validate the text field
 
-For more information and detail, visit [this post][2]
+For more information and detail, visit [this post][2]. Or, you can see my demo, with some textfield type such as *email*, *phone number*, *password*...
 
 Thank you, Dhawaldawar
 
